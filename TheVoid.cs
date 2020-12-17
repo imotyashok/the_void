@@ -3,7 +3,7 @@ using System.Threading;
 
 class TheVoid
 {
-	public static void descentIntoHell(){
+	public static void descentIntoMadness(){
 		var chars = "\n\n\nA B C D E F G H I J K L M N O P Q R S T U V W 	"+
 					"X Y Z 		abcdefghijklmnopqrstuvwxyz 0123456789 		"+
 					"!@#$%^&*()-_=+	 	 	        		  	/?><,.";
@@ -28,7 +28,7 @@ class TheVoid
 		Thread.Sleep(1500);
 		Console.WriteLine("Uh oh! You have been consumed by the vo-");
 		Thread.Sleep(1000);
-		descentIntoHell();
+		descentIntoMadness();
 	}
 	
 	
